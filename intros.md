@@ -23,3 +23,5 @@
 - My name is Lynn and my favorite colour is blue.
 - My name is Natasha and my favourite dessert is pie.
 - Hi, my name is Vivian and I like dogs :D
+- My name is Michael and my favourite artist is Juice Wrld.
+
