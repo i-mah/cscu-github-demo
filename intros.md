@@ -25,3 +25,4 @@
 - My name is Michael and my favourite artist is Juice Wrld.
 - My name is Harman and I like soccer
 - My name is Warren and I like play vedio games.
+- My name is Ariel and I am not your average C++ enjoyer... 
