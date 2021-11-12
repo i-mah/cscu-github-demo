@@ -1,6 +1,5 @@
 # Introduce Yourself
 ### Please introduce yourself below with your name and a fun fact about you
-
 - My name is Vanessa and my favourite food is ice cream.
 - My name is Jason and you should follow my instagram @trg.jason
 - My name is Dumebi and i like sushi
@@ -24,4 +23,5 @@
 - My name is Natasha and my favourite dessert is pie.
 - Hi, my name is Vivian and I like dogs :D
 - My name is Michael and my favourite artist is Juice Wrld.
-
+- My name is Harman and I like soccer
+- My name is Warren and I like play vedio games.
